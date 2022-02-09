@@ -39,7 +39,7 @@ Run the following command from the root directory:
 node server.js
 ```
 
-## Test
+## Tests
 
 Try the following urls in Postman.
 
@@ -63,7 +63,7 @@ Try the following urls in Postman.
   * body -> raw, json
   * { "id" : 1, "name": "task11", "description": "task11", "priority": "medium", "status": "started" }
   
- * DeleteTask (POST)
+* DeleteTask (POST)
 
   * http://127.0.0.1:3000/deletetask
   * body -> raw, json
