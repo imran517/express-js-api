@@ -26,7 +26,7 @@ A simple api usinf express.js
 
   - data
   
-* datbase
+* database
 
   - simple in memory object
 
