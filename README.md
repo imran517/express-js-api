@@ -1,10 +1,10 @@
 # express-js-api
 
-A simple api usinf express.js
+A simple api using express.js
 
 ## Requirements
 
-* Node.js
+* node.js
 * express.js
 * Postman (optional for testing api)
 
